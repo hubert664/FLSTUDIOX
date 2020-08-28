@@ -46,6 +46,12 @@ Those are for you, if you want to get a bit deeper inside of FL customization. T
 This is for **note colors** and **toolbar layouts**
 Open your FL user data (by default it is in `%userprofile%\Documents\Image-Line\` (you can see where that is located here (mine is a bit different):
 ![User Data Folder](https://i.ibb.co/wcKx5HV/OQf-GMCe-LRW.png)
-Copy the FL Studio folder from the skin files that you downloaded to there  
+
+Copy the FL Studio folder from the skin files that you downloaded to there 
+
+## Artwork
+This is for the **fl studio logos**
+Open your FL installation folder (the one you picked when installing)
+
 
 ```
