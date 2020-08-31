@@ -1,6 +1,6 @@
 # FL Studio X
 
-*This is a skin made using flskinner for IL FL Studio.*
+*This is a skin made using flskinner for IL FL Studio, works for 20.7, but should work for earlier versions as well, might be a bit worse though*
 
 ![How it looks](https://i.ibb.co/V9D71Nb/FLX.png)
 
