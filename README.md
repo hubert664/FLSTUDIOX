@@ -47,7 +47,8 @@ This is for **note colors** and **toolbar layouts**
 Open your FL user data (by default it is in `%userprofile%\Documents\Image-Line\` (you can see where that is located here (mine is a bit different):
 ![User Data Folder](https://i.ibb.co/wcKx5HV/OQf-GMCe-LRW.png)
 
-Copy the **FL Studio** folder from the skin files that you downloaded to there  
+Copy the **FL Studio** folder from the skin files that you downloaded to there.
+  
 You can set those up inside of FL studio by 1) `View/Toolbars/User Presets/flx` and 2)`Open Piano Roll (F7), go to Piano Roll Options(Arrow at the top left)/Note Colors/Presets/flx/` (This will give you a custom color palette for notes, so you can choose one that you like and use that)
 
 ## Artwork
