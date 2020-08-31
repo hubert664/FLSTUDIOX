@@ -1,0 +1,358 @@
+{
+  "name": "FL Studio X",
+  "author": "milkman (milkman#6559 on discord)",
+  "notes": "", 
+
+  //I wouldn't advise you to use these codes as a base for your own skin as there are much better alternatives for that (Such as Plain Annotated that ships with FLskinner)
+  //If you DO use this as a base for your own skin, a simple discord DM can do a lot. Please don't use this for that without asking me. Thanks! 
+                                                                                                                                                      //milkman
+  "dfmReplacements": {
+    "#77BB04": "#ffffff",
+    "#87E279": "#15e6bc",
+    "#40A8DE": "#ed7b96",
+    "#FB9244": "#70c27b",
+    "#BEC6CA": "#ed7b96",
+    "#475056": "#161616",
+    "#363C40": "#141414",
+    "#31373B": "#202020",
+    "#21272B": "#101010",
+    "#3f484d": "#101010",
+    "#2E3337": "#080808",
+    "#262B2F": "#080808",
+    "#FF8040": "#ed7b96",
+    "#50575D": "#121212",
+    "#bfced5": "#15e6bc",
+    "#B9BFC3": "#cffff4",
+    "#C1C7CB": "#ffffff",
+    "#9FA8AD": "#ffffff",
+    "#C9CFD3": "#8cfdff",
+    "#D9DFE3": "#ff7a7a",
+    "#40474D": "#101010",
+    "#4A5158": "#202020",
+    "#242A2E": "#080808",
+    "#FFA830": "#8cfdff",
+    "#FF7E31": "#15e6bc",
+    "#B1C0C7": "#080808",
+    "#FE8025": "#ffffff",
+    "#87B9F6": "#ed7b96",
+    "#CFD3DA": "#909090",
+    "#2F3031": "#080808",
+    "#363B3F": "101010",
+    "#32373B": "#15e6bc",
+    "#333C42": "#121212",
+    "#2D3337": "#080808",
+    "#435158": "#191919",
+    "#374248": "#121212",
+    "#415158": "#191919",
+    "#A7AEB4": "#ff7a7a",
+    "#4D565C": "#101010",
+    "#44565F": "#191919",
+    "#3C454B": "#151515",
+    "#2B3339": "#ff7a7a",
+    "#313A40": "#191919",
+    "#7E343C": "#080808",
+    "#FFEAAA": "#8cfdff",
+    "#353E44": "#151515",
+    "#E9EFF3": "#ff7a7a",
+    "#CCD1D5": "#080808",
+    "#596267": "#121212",
+    "#5f7374": "#1b1b1b",
+    "#3A4247": "#8cfdff",
+    "#4A5257": "#15e6bc",
+    "#7C858A": "#cffff4",
+    "#536566": "#171717",
+    "#D8E0E4": "#8C8C8C",
+    "#FF594C": "#ff7a7a",
+    "#9FCF59": "#ff7a7a",
+    "#B9C8CF": "#000000",
+    "#1F282D": "#ffffff",
+    "#0F181D": "#ffffff",
+    "#D0D8DC": "#ffffff",
+    "#30383d": "#171717",
+    "#242C31": "#171717",
+    "#3e464b": "#151515",
+    "#677075": "#191919",
+    "#95E47A": "#82ffd2",
+    "#FFBC40": "#b082ff",
+    "#95E47A": "#ff759c",
+    "#2A3338": "#000000",
+    "#434C51": "#000000",
+    "#50595e": "#0F0F0F",
+    "#353E43": "#121212",
+    "#FFBC40": "#82ffd2",
+    "#77C5F2": "#82d3ff",
+    "#FF5B53": "#8284ff",
+    "#FF53A9": "#b082ff",
+    "#FFA04A": "#ff82f3",
+    "#80ACFF": "#ff759c",
+    "#FFAB60": "#ff4a4a",
+    "#5f686d": "#161616",
+    "#ff5b53": "#82ffd2",
+    "#4ECCFF": "#ff4a4a"
+  },
+  "hookReplacements": {
+    "#40A8DE": "#ed7b96",
+    "#f80512": "#82ffd2",
+    "#E0E8EC": "#8284ff",
+    "#5A6367": "#121212",
+    "#566065": "#121212",
+    "#5C666B": "#161616",
+    "#353E43": "#121212",
+    "#636C71": "#141414",
+    "#FFB870": "#82ffd2",
+    "#1D262B": "#0B0B0B",
+    "#34444e": "#020202",
+    "#283842": "#000000",
+    "#2B3439": "#1A1919",
+    "#697278": "#58edde",
+    "#5F686D": "#0F0F0F",
+    "#A8E44A": "#58edde",
+    "#313C45": "#090909",
+    "#323B40": "#101010",
+    "#333C41": "#58edde",
+    "#10202a": "#ffffff",
+    "#2a3a44": "#131313",
+    "#22323c": "#ffffff", 
+    "#10202a": "#ffffff", 
+    "#2a3a44": "#ffffff"  
+  },
+
+  "mixerColor": "#0F0F0F",
+  "gridColor": "#101010",
+  "buttonColors": "#0F0F0F",
+  "browserColor": "#0F0F0F",
+  "browserFilesColor": "#101010",
+  "sequencerBlocks": "#2f2f2f",
+  "sequencerBlocksHighlight": "#cc6262",
+  "sequencerBlocksAlt": "#111111",
+  "sequencerBlocksAltHighlight": "#82ffd2",
+  "defaultPatternColor": "#242424",
+  "defaultPlaylistTrackColor": "#131313",
+  "peakMeterGradientA": "#58edde",
+  "peakMeterGradientB": "#f64141",
+  "peakMeterGradientC": "#70c27b",
+  "mixerLevelGradient1A": "#70c27b",
+  "mixerLevelGradient1B": "#ff0a0a",
+  "mixerLevelGradient2A": "#ff2f0a",
+  "mixerLevelGradient2B": "#58edde",
+  "mixerLevelGradient3A": "#ff2f0a",
+  "mixerLevelGradient3B": "#ed58a5",
+  "mixerLevelClipping": "#b00000",
+  "mixerLevelBackgroundGradientA": "#121212", 
+  "mixerLevelBackgroundGradientB": "#121212", 
+  "dfm": {
+
+     "SongPosSlider":
+      {
+        "key": "HandlePressedColor",
+        "type": "hex32",
+        "value": "#db7279"
+      }
+
+
+    ,
+
+
+
+    "InfoBox": {
+      "key": "Color",
+      "type": "hex32",
+      "value": "#151515"
+    },
+
+    "NewMainMenu": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#ffffff"
+    },
+
+    "CloseBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#db7279"
+    },
+    "MinBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#72dbd4"
+    },
+    "MaxBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#c4c4c4"
+    },
+
+    "PatBtn": {
+      "key": "Color",
+      "type": "hex32",
+      "value": "#72dbd4"
+    },
+
+    "MetronomeBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#82ffd2"
+    },
+    "LoopRecordBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#ff759c"
+    },
+    "BlendRecordBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#ff82f3"
+    },
+    "PrecountBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#8284ff"
+    },
+    "StartOnInputBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#82d3ff"
+    },
+
+    "KbToMIDIBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#82ffd2"
+    },
+    "AutoScrollBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#82d3ff"
+    },
+    "StepEditBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#8284ff"
+    },
+    "EnableGroupsBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#ff82f3"
+    },
+    "MultiLinkBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#ff759c"
+    },
+
+    "ViewPLBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#ff759c"
+    },
+    "ViewSSBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#D184C6"
+    },
+    "ViewPRBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#ff82f3"
+    },
+    "ViewSBBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#968AF5"
+    },
+    "ViewFXBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#A979D1"
+    },
+
+    "ViewProjPickerBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#89A4F8"
+    },
+    "ViewPlugPickerBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#89C3EF"
+    },
+    "ViewTTBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#89D9E9"
+    },
+
+    "ViewKbBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#89F0E2"
+    },
+
+    "SaveAsBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#A979D1"
+    },
+    "RenderBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#ff759c"
+    },
+    "EditAudioBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#89F0E2"
+    },
+    "RecAudioBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#89D9E9"
+    },
+
+    "SongSetBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#ffffff"
+    },
+    "HelpBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#89A4F8"
+    },
+    "ArrangeBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#89F0E2"
+    },
+    "UndoBtn": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#89D9E9"
+    },
+
+    "CPUGauge": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#89F0E2"
+    },
+    "PolyDigiLabel": {
+      "key": "QuickFont.Color",
+      "type": "hex32",
+      "value": "#ff759c"
+    },
+
+    "WAVScope": {
+      "key": "LineColor",
+      "type": "hex32",
+      "value": "#ff6b6b"
+    },
+
+    "TimeScroller": {
+      "checkParent": "EventEditForm",
+      "key": "Color",
+      "type": "hex32",
+      "value": "#121212"
+    }
+
+  }
+}
