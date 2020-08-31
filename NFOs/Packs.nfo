@@ -1,0 +1,6 @@
+Tip=Sorted packs of samples / patches
+
+' highlight this subdir
+color=$cc62c8
+IconIndex=-50
+Bitmap=Packs.png
