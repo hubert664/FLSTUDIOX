@@ -54,6 +54,7 @@ You can set those up inside of FL studio by 1) `View/Toolbars/User Presets/flx` 
 
 This is for the  **fl studio logos**  
 Copy the **Artwork** folder. Open your FL installation folder (the one you picked when installing), by default it should be in `C:\Program Files\Image Line\FL Studio N` or `C:\Program Files(x86)\Image Line\FL Studio N` (depends on the version) and paste in the **Artwork** folder
+You can set this up in FL Studio by going `View\Background\Set Image Wallpaper\Locate flx_wallpaper.png`
 
 ## Backup
 All the original Artwork images
