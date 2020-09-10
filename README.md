@@ -62,7 +62,7 @@ All the original Artwork images
 
 ## NFOs
 I have also included some NFOs. if you know, you know. If you don't, you don't.
-
+(You can read about it [here](https://www.reddit.com/r/FL_Studio/comments/5ygcxi/folder_nfo_files/))
 -----------------
 ![Mixer, Logo and Channel Rack](https://i.ibb.co/F0t64gh/FLX3.png)
 
